@@ -1,5 +1,5 @@
-# gedit-light-syntax theme
+# Gedit-light-syntax theme for Atom Editor
 
-A short description of your theme.
+This syntax theme tries to mimic the look and feel of Gedit editor;
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](gedit-light.png)
